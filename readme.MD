@@ -1,4 +1,7 @@
-## How to use
+## Install
+`npm install str-safe-replace`
+
+## Usage
 ```javascript
 let strReplace = require('str-safe-replace');
 
