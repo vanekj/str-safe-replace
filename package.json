@@ -1,0 +1,13 @@
+{
+	"name": "str-safe-replace",
+	"version": "1.0.0",
+	"description": "Simple string replace, which works for any situation.",
+	"main": "index.js",
+	"keywords": [
+		"safe",
+		"string",
+		"replace"
+	],
+	"author": "Jakub Vaněk <info@jakub-vanek.eu> (http://www.jakub-vanek.eu)",
+	"license": "ISC"
+}
