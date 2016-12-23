@@ -1,6 +1,6 @@
 {
 	"name": "str-safe-replace",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Simple string replace, which works for any situation.",
 	"main": "index.js",
 	"keywords": [
