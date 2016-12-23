@@ -1,5 +1,7 @@
 ## Install
-`npm install str-safe-replace`
+```
+$ npm install str-safe-replace --save
+```
 
 ## Usage
 ```javascript
